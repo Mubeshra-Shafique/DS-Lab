@@ -29,3 +29,26 @@
 6-Queue
    1-Queue using array
    2-Queue using link list
+   3-linear Queue
+   4-circular Queue
+   5-deque Queue
+7-Tree
+  1-binary tree
+  2-AVL tree 
+  3-binary search tree
+8-graph
+  1-BFT
+  2-DFT 
+     1-preorder traversal
+     2-postorder traversal
+     3-inorder traversal
+9-searching 
+  1-linear search
+  2-binary search
+10-sorting 
+  1-insertion sort 
+  2-selection sort
+  3-bubble sort
+  4- merge sort
+11-hashing 
+12-heap
